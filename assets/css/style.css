@@ -28,7 +28,7 @@ body {
 }
 
 .top-btn i {
-    color: var(--primary-color);
+    color: var(--text-highligh);
     font-size: 2.5rem;
 
 }
